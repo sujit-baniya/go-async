@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rdleal/go-async/async"
+	"github.com/sujit-baniya/go-async/async"
 )
 
 func ExampleWaterfall() {

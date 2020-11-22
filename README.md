@@ -1,7 +1,7 @@
 # go-async
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/rdleal/go-async/async)](https://pkg.go.dev/github.com/rdleal/go-async/async)
-[![Go Report Card](https://goreportcard.com/badge/github.com/rdleal/go-async)](https://goreportcard.com/report/github.com/rdleal/go-async)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/sujit-baniya/go-async/async)](https://pkg.go.dev/github.com/sujit-baniya/go-async/async)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sujit-baniya/go-async)](https://goreportcard.com/report/github.com/sujit-baniya/go-async)
 
 go-async provides utility functions for controlling asynchronous flow.
 
@@ -9,14 +9,14 @@ go-async provides utility functions for controlling asynchronous flow.
 
 Install the package:
 ```
-go get github.com/rdleal/go-async
+go get github.com/sujit-baniya/go-async
 ``` 
 
 ## Usage
 
 Import the package as:
 ```
-import "github.com/rdleal/go-async/async"
+import "github.com/sujit-baniya/go-async/async"
 ```
 
 ### Concurrent
@@ -31,7 +31,7 @@ import (
         "fmt"
         "log"
 
-        "github.com/rdleal/go-async/async"
+        "github.com/sujit-baniya/go-async/async"
 )
 
 func main() {
@@ -86,7 +86,7 @@ import (
         "log"
 	"math/big"
 
-        "github.com/rdleal/go-async/async"
+        "github.com/sujit-baniya/go-async/async"
 )
 
 func main() {
@@ -145,7 +145,7 @@ import (
         "log"
         "strings"
 
-        "github.com/rdleal/go-async/async"
+        "github.com/sujit-baniya/go-async/async"
 )
 
 func main() { 

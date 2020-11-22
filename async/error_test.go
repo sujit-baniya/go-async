@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/rdleal/go-async/async/internal"
+	"github.com/sujit-baniya/go-async/async/internal"
 )
 
 func TestError(t *testing.T) {

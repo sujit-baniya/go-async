@@ -55,7 +55,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/rdleal/go-async/async/internal"
+	"github.com/sujit-baniya/go-async/async/internal"
 )
 
 type function struct {

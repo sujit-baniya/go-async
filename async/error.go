@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/rdleal/go-async/async/internal"
+	"github.com/sujit-baniya/go-async/async/internal"
 )
 
 // err is an implementation of error interface.

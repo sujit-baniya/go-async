@@ -1,3 +1,3 @@
-module github.com/rdleal/go-async
+module github.com/sujit-baniya/go-async
 
 go 1.15
